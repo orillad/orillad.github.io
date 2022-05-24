@@ -3789,3 +3789,10 @@ Slides Index
 
 .text-slide-number {
   color: #abc; }
+
+
+
+#logo{
+  max-width: 100%;
+  max-height: 100%;
+}
